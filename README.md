@@ -1,4 +1,4 @@
-I have no clue how to actually write a README, but if I learnt one thing in AP Lit, it's how to BS things.
+For use on a Raspberry Pi (developed on RPi 2B+). Flashes an LED using a 3.3v pin at a specified frequency.
 
 
 LED must be on Pin 7, A.K.A. GPIO04.
