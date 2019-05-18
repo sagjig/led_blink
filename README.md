@@ -1,5 +1,3 @@
-LED_BLINK README
-
 I have no clue how to actually write a README, but if I learnt one thing in AP Lit, it's how to BS things.
 
 
@@ -8,4 +6,4 @@ Run with "python led_blink.py #", with # being the frequency at which to flash t
 
 e.g. "python led_blink.py 3" for flashing the LED at 3 Hz.
 
-
+Help is printed with "python led_blink.py -h" or "python led_blink.py --help"
